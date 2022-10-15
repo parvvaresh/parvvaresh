@@ -13,7 +13,7 @@
 ## 🧐 About
 
 - 👨‍💻 My telegram channel: https://t.me/parvvaresh_ch
-- 📫 How to reach me: ah.foroughi98@gmail.com
+- 📫 How to reach me: ah.parvvaresh@gmail.com
 - 🌱 Languages and Tools: 
 
     <div>
