@@ -30,7 +30,6 @@
     
  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvvaresh&layout=compact&theme=buefy&hide_border=true" /></a> |
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=parvvaresh&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 <a href=#><img src="display.svg"></a>
 
