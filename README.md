@@ -1,34 +1,34 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-**I'm [Alireza Parvaresh](https://github.com/parvvaresh) and  intersted in AI  👨‍💻 .**
+<a href="https://">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+</a>  
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/parvvaresh)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:parvvaresh@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/parvvaresh/)](https://space.bilibili.com/7708412)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/parvvaresh)
+<a href="https://www.linkedin.com/in/parvvaresh/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=parvvaresh&show_icons=true&hide_border=true">
+<a href="mailto:parvvaresh@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
+<a href="https://instagram.com/parvvaresh/">
+    <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white">
+</a>
 
-## 🧐 About
+<a href="https://t.me/parvvaresh_ch">
+    <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white">
+</a>
 
-- 👨‍💻 My telegram channel: https://t.me/parvvaresh_ch
-- 📫 How to reach me: parvvaresh@gmail.com
-- 🌱 Languages and Tools: 
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alireza+Parvvaesh;Researcher+%7C+math Cs+Student+%7C+Machine+learning+Engineer;" alt="Typing SVG" />
+</a>
+<br/>
 
-    <div>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
-        </code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-        <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-    </div>
-    
- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvvaresh&layout=compact&theme=buefy&hide_border=true" /></a> |
+<a href="https://github.com/parvvaresh">
+    <img src="https://github-stats-alpha.vercel.app/api?username=parvvaresh&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
 
 <a href=#><img src="display.svg"></a>
