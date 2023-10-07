@@ -53,8 +53,6 @@
 </a>
 
 
-<a href=#><img src="display.svg"></a>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/parvvaresh/count.svg" />
