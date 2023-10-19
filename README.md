@@ -12,10 +12,6 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://instagram.com/parvvaresh/">
-    <img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white">
-</a>
-
 <a href="https://t.me/parvvaresh_ch">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white">
 </a>
