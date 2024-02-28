@@ -20,7 +20,7 @@
 
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alireza+Parvvaesh;Researcher+%7C+math Cs+Student+%7C+Machine+learning+Engineer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alireza+Parvvaesh;+%7C+math Cs+Student+%7C+Machine+learning+Engineer;" alt="Typing SVG" />
 </a>
 <br/>
 
